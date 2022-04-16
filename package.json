@@ -1,0 +1,19 @@
+{
+  "name": "nodeassgn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task-9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codename-24/nodeassgn.git"
+  },
+  "author": "codename-24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codename-24/nodeassgn/issues"
+  },
+  "homepage": "https://github.com/codename-24/nodeassgn#readme"
+}
